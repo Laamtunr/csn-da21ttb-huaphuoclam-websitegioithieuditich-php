@@ -1,0 +1,6 @@
+1. Cách cài đặt và sử dụng XAMPP trên Windows và Linux:
+https://xamwiki.matbao.net/xampp-la-gi-cach-cai-dat-va-su-dung-xampp-tren-windows-va-linux/
+2. Tham khảo thông tin về Di tích lịch sử Trà Vinh: 
+https://banquanlyditichtravinh.vn/cap-quoc-gia/thanh-pho-tra-vinh/
+3. Học ngôn ngữ PHP:
+https://www.vietjack.com/php/index.jsp
